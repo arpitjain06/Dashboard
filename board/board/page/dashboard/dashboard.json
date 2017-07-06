@@ -1,0 +1,25 @@
+{
+ "content": null, 
+ "creation": "2017-07-06 18:12:36.285933", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2017-07-06 18:17:09.776650", 
+ "modified_by": "Administrator", 
+ "module": "Board", 
+ "name": "dashboard", 
+ "owner": "Administrator", 
+ "page_name": "Dashboard", 
+ "roles": [
+  {
+   "role": "All"
+  }, 
+  {
+   "role": "Administrator"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "title": "Dashboard"
+}
